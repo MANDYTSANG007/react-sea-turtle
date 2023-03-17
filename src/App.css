@@ -1,0 +1,23 @@
+.section-title {
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.description {
+    font-size: 16pt;
+    color: inherit;
+}
+
+.btn {
+    font-size: 18pt;
+    font-weight: 600;
+    border-radius: 2vh;
+    background-color: #f4ce14;
+    border: none;
+    padding: 1vh 3vh;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #f4cf14d3;
+}

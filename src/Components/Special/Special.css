@@ -1,0 +1,26 @@
+.specials {
+    padding: 5vh 0vh;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.specials .section-title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5vh;
+    align-items: center;
+    height: fit-content;
+    padding: 0 10%;
+}
+
+.specials .section-title p {
+    text-align: left;
+}
+
+.specials .content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 50vh);
+    column-gap: 5vh;
+    row-gap: 8vh;
+    justify-content: center;
+}

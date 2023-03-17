@@ -1,0 +1,30 @@
+.hero {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 45vh);
+    column-gap: 30vh;
+    row-gap: 5vh;
+    padding: 2vh 5vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(39, 126, 132);
+}
+
+.hero-content {
+    text-align: left;
+    width: 60vh;
+}
+
+.hero-title {
+    color: #f4ce14;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.hero .hero-content .description {
+    color: #edefee;
+}
+
+.hero img {
+    width: 100%;
+    border-radius: 2vh;
+}

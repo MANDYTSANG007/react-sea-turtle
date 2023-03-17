@@ -1,7 +1,14 @@
+import React from "react";
+import Hero from '../Hero/Hero';
+import Special from '../Special/Special';
+
 function Home() {
     return (
-      <h1>Home Page</h1>
+      <div className="home">
+        <Hero />
+        <Special />
+      </div>
     );
   }
   
-  export default Home;
+export default Home;

@@ -1,0 +1,48 @@
+.special-cards {
+    width: 50vh;
+    height: 100%;
+    background-color: #edefee;
+    overflow: hidden;
+    transition: 600ms;
+    border-top-left-radius: 2vh;
+    border-top-right-radius: 2vh;
+    box-shadow: 3px 4px 3px 0.1px rgba(0, 0, 0, 0.25);
+    padding-bottom: 2vh;
+}
+
+.special-cards .card-image {
+    height: 35vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.special-cards:hover {
+    scale: 1.06;
+    transition: 600ms;
+}
+
+.special-cards .card-container {
+    padding: 1vh 3vh;
+}
+
+.special-cards .card-container .card-header {
+    display: flex;
+}
+
+.special-cards .card-container .card-header .title {
+    font-size: 18pt;
+    font-weight: 600;
+    /* padding: 0; */
+}
+
+.special-cards .card-container .card-header .price {
+    color: rgb(39, 126, 132);
+    margin-left: auto;
+    /* font-size: 16pt; */
+    /* font-weight: 500; */
+}
+
+.special-cards .card-container .description {
+    overflow-y: hidden;
+    height: 20vh;
+}
