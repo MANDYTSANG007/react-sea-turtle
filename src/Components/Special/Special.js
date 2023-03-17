@@ -1,18 +1,21 @@
 import React from "react";
 import './Special.css';
-import { menuData } from "../../data/menu-data";
+import { specialMenuData } from "../../data/menu-data";
 import SpecialCards from "../SpecialCards/SpecialCards";
+import { useNavigate } from "react-router-dom";
 
 
 function Special() {
+    const navigate = useNavigate();
+
     return (
         <div className='specials'>
             <div className='section-title'>
                 <h1> This week's specials </h1>
-                <button className='btn'>Menu</button>
+                <button onClick={() => navigate("/menu")} className='btn'>Menu</button>
             </div>
             <div className="content">
-                {menuData.map((dish) => {
+                {specialMenuData.map((dish) => {
                     return (
                     <SpecialCards
                         key={dish.id}

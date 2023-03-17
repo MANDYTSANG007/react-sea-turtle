@@ -7,7 +7,6 @@
 }
 
 article {
-    /* flex: 1; */
     border: 1px solid #EDEFEE;
     padding-left: 1rem;
     padding-right: 1rem;
@@ -34,4 +33,19 @@ article {
 
 .column figure {
     padding: 0px 12px;
+}
+
+@media screen and (max-width: 768px) {
+    .about-section {
+        flex-direction: column;
+    }
+
+    .row {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .about-img {
+        width: 100%;
+    }
 }

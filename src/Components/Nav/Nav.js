@@ -21,6 +21,7 @@ function Nav() {
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="/about">About</Link></li>
                         <li><Link to="/menu">Menu</Link></li>
+                        <li><Link to="/booking">Booking</Link></li>
                     </ul>
                 </div>
             </nav>
