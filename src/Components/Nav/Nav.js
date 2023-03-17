@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Nav.css';
 import { Link } from 'react-router-dom';
-import logo from '../../assets/logo-sea-turtle.png';
+import logo from '../../assets/logo-sea-turtle-300-100.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faX } from '@fortawesome/free-solid-svg-icons';
 

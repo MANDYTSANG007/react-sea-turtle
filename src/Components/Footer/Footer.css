@@ -1,0 +1,45 @@
+.footer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 30vh);
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(39, 126, 132);
+    margin-top: 5vh;
+    padding: 2vh 5%;
+}
+
+.footer .footer-logo {
+    height: 15vh;
+}
+
+.footer .footer-menu {
+    margin-bottom: auto;
+    list-style-type: none;
+    width: 30vh;
+}
+
+.footer .footer-menu li {
+    margin: 1vh auto;
+    color: #edefee;
+    font-weight: 400;
+}
+
+.copyright {
+    margin: 1vh auto;
+    color: #edefee;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
