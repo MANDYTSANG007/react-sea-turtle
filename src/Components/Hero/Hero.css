@@ -7,11 +7,12 @@
     justify-content: center;
     align-items: center;
     background-color: rgb(39, 126, 132);
+    width: 100%;
 }
 
 .hero-content {
     text-align: left;
-    width: 60vh;
+    /* width: 60vh; */
 }
 
 .hero-title {
