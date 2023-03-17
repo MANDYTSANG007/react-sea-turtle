@@ -3,8 +3,9 @@
     font-weight: 800;
 }
 
-.description {
-    font-size: 16pt;
+p {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
     color: inherit;
 }
 

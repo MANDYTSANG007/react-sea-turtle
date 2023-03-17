@@ -20,15 +20,11 @@
     font-weight: 800;
 }
 
-.hero .hero-content .description {
+.hero .hero-content p {
     color: #edefee;
 }
 
 .hero img {
     width: 100%;
     border-radius: 2vh;
-}
-
-.hero .hero-content p {
-    margin-bottom: 2vh;
 }

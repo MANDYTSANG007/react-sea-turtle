@@ -23,6 +23,7 @@
     margin: 0 1rem;
     display: block;
     width: 100%;
+    font-size: 1.3rem;
 }
 
 .navbar .nav-menu li:hover {

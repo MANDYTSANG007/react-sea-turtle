@@ -32,14 +32,11 @@
 .special-cards .card-container .card-header .title {
     font-size: 18pt;
     font-weight: 600;
-    /* padding: 0; */
 }
 
 .special-cards .card-container .card-header .price {
     color: rgb(39, 126, 132);
     margin-left: auto;
-    /* font-size: 16pt; */
-    /* font-weight: 500; */
 }
 
 .special-cards .card-container .description {

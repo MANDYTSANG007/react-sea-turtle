@@ -19,11 +19,8 @@ function Nav() {
                 <div className={isNavExpanded ? 'nav-menu expanded' : 'nav-menu'}>
                     <ul>
                         <li><Link to="/">Home</Link></li>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="/">Home</Link></li>
+                        <li><Link to="/about">About</Link></li>
+                        <li><Link to="/menu">Menu</Link></li>
                     </ul>
                 </div>
             </nav>
