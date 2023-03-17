@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    width: 100%;
+    height: 5rem;
+    justify-content: space-between;
+    padding: 5vh;
+}
+
+.categories {
+    display: flex;
+    font-size: 16pt;
+    font-weight: 700;
+}
+
+.navbar .categories li {
+    margin: auto 2vh;
+}
+
+.navbar .categories li:hover {
+    color: #2873ec
+}
+
+.navbar-logo {
+    height: 8vh;
+}
