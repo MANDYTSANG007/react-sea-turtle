@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Sea Turtle 
+Sea Turtle is a React app that features a modern and responsive user interface, with a clean and intuitive design that is easy to navigate. Here are some key features and components, such as:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Routing: The app is designed with React Router, enabling users to navigate through multiple pages and components without having to reload the entire app.
 
-## Available Scripts
+- State management: The app utilizes React's state management to provide a dynamic UI. This includes user input validation and error handling, and real-time updates based on user actions.
 
-In the project directory, you can run:
+- Responsive design: The app is designed to be responsive and scalable, ensuring that it looks great on different devices or screen sizes.
 
-### `npm start`
+As an app developer, I'm passionate about creating engaging and user-friendly interfaces using React. In addition to my development work, I also enjoy logo design as a hobby, and I designed the app's logo myself. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Feel free to explore the app and contact me if you have any questions or feedback!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Table of Contents
+- [Future Development](#future-development)
+- [Author](#author)
+- [License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Future Development
+Please note that currently, this app is a front-end only React app designed to showcase my front-end development skills. I'm always exploring new ways to improve and enhance the app. In the future, I may add additional features such as a testimonial feature, which would allow customers to leave feedback on their dining experience. I'm also open to the possibility of developing the back-end to create a more robust and fully-functional application.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Author
+Mandy Tsang is the author of this application. Find additional work on Mandy's [Github profile.](https://github.com/MANDYTSANG007).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This project is licensed under the MIT License - see [MIT](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

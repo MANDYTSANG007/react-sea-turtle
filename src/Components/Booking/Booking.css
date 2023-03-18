@@ -85,7 +85,7 @@ input, select{
     margin-left: 1rem;
 }
 .time-button.active {
-    background-color: blue;
+    background-color: rgb(91, 91, 236);
     color: white
 }
 

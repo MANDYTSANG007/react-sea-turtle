@@ -31,11 +31,7 @@ function About() {
                                 <iframe
                                     className="google-map"
                                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.3678110897604!2d-118.50001164925516!3d34.00876857737219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2a4d74d5ea79b%3A0xcd9a111aced18f4d!2sSanta%20Monica%20Pier!5e0!3m2!1sen!2sus!4v1679094505744!5m2!1sen!2sus"
-                                    // width="600"
-                                    // width="auto"
                                     width="100%"
-                                    // height="100%"
-                                    // height="auto"
                                     height="450"
                                     title="Google Map of Santa Monica, CA, USA"
                                     style={{ border: 0 }}

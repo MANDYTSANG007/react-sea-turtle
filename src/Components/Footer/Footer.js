@@ -1,12 +1,13 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import "./Footer.css";
 import { contactData, socialMedia } from "../../data/contact-data";
 
 function Footer() {
+    const navigate = useNavigate();
     return (
         <footer className="footer">
-            <img src={require("../../assets/logo2-sea-turtle-clear.png")} alt="sea turtle logo" className="footer-logo"></img>
+            <img onClick={() => navigate("/")}src={require("../../assets/logo2-sea-turtle-clear.png")} alt="sea turtle logo" className="footer-logo"></img>
             <div className="footer-menu">
                 <ul>
                     <li><Link to="/">Home</Link></li>
