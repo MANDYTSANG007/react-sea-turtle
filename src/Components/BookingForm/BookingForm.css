@@ -1,0 +1,30 @@
+.booking-form {
+    width: 100%;
+}
+
+.booking-form label {
+    display: block;
+    color: #777878;
+    font-weight: 600;
+}
+
+.booking-form input {
+    width: 100%;
+    display: block;
+    padding: .5rem 1rem;
+    border-radius: 0.5rem;
+    border: solid 1px #777878;
+    box-sizing: border-box;
+    line-height: 1.5rem;
+}
+
+.booking-form span {
+    color: red;
+    margin-bottom: 2vh;
+}
+
+.booking-title {
+    color: rgb(39, 126, 132);
+    font-size: 2rem;
+    font-weight: 800;
+}
