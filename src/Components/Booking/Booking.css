@@ -89,6 +89,10 @@ input, select{
     color: white
 }
 
+.slogan {
+    text-align: center;
+}
+
 @media screen and (max-width: 768px) {
     .booking-section {
         flex-direction: column;

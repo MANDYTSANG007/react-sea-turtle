@@ -10,9 +10,8 @@ function About() {
                     {/* Main course column */}
                     <div className="column">
                         <h1 className="about-title">About Us</h1>
-                        <p className="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <p className="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <br></br>
+                        <p className="description">At Sea Turtle, we believe that food is at its best when it's fresh, healthy, and sustainably sourced. That's why we own and operate our own farms, where we grow a variety of crops using responsible farming practices.</p>
+                        <p className="description">Our mission is to provide our customers with delicious, nutritious meals made with the freshest ingredients, straight from our farms to your table.</p>
                         <br></br>
                         <br></br>
                         <h1 className="about-title">Opening Hours</h1>
@@ -22,7 +21,6 @@ function About() {
                         <p>Saturday: 9am - 9pm</p>
                     </div>
                         
-
                     {/* Dessert column */}
                     <div className="column">
                         <div className="container">

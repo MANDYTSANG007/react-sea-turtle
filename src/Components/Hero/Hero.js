@@ -10,7 +10,7 @@ function Hero() {
                 <h1 className='hero-title'> Sea Turtle </h1>
                 <p> Los Angeles </p>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    We take pride in sourcing all of our ingredients from our own farms, where we use organic and sustainable farming practices to produce the highest quality crops. Our chefs use these fresh, delicious ingredients to create unique dishes.
                 </p>
                 <button onClick={() => navigate("/booking")} className='btn'> Reserve a table </button>
             </div>

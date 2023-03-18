@@ -96,6 +96,7 @@ function Booking() {
                     </div>
                     <div className="column">
                         <img src={require('../../assets/farm-produce.jpg')} alt="farm produce" className="booking-img"/>
+                        <p className="slogan">From Our Farms to Your Table.</p>
                     </div>
                 </div>
             </article>
