@@ -1,7 +1,7 @@
 .about-section {
     display: flex;
     gap: 2rem 1rem;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
     flex-direction: row;
 }
@@ -29,15 +29,28 @@ article {
     flex-basis: 50%;
     margin-bottom: 1rem;
     padding-bottom: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
 }
 
 .column figure {
     padding: 0px 12px;
 }
 
+.container {
+    margin: 1rem;
+}
+
+
 @media screen and (max-width: 768px) {
     .about-section {
         flex-direction: column;
+    }
+
+    .column {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
     }
 
     .row {
@@ -47,5 +60,19 @@ article {
     
     .about-img {
         width: 100%;
+    }
+
+    .container {
+        margin: 0;
+    }
+
+    .figure {
+        width: auto;
+        height: auto;
+    }
+
+    .google-map {
+        width: 100%;
+        height: auto;
     }
 }

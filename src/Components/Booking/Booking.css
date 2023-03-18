@@ -1,0 +1,107 @@
+.booking-section {
+    display: flex;
+    gap: 2rem 1rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    flex-direction: row;
+}
+
+.booking-article {
+    border: 1px solid #EDEFEE;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+label {
+    display: block;
+}
+
+input, select{
+    width: 100%;
+    display: block;
+    padding: .5rem 1rem;
+    line-height: 1.5rem;
+    box-sizing: border-box;
+}
+
+#button {
+    display: block;
+    padding: 0.5rem 1rem;
+    border: 1px solid #495E57;
+    border-radius: 5px;
+    line-height: 25px;
+    background-color: #f4ce14;
+}
+
+.reset-button {
+    display: block;
+    padding: 0.5rem 1rem;
+    border: 1px solid #495E57;
+    border-radius: 5px;
+    line-height: 25px;
+    background-color: #f4ce14;
+}
+
+.booking-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-bottom: 1rem;
+}
+
+.booking-img {
+    width: 100%;
+}
+
+#button:hover {
+    cursor: pointer;
+    background-color: #f4cf14d3;
+}
+
+.booking-title{
+    font-size: 3rem;
+}
+
+.form {
+    width: 100%;
+}
+
+.time-button {
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 6rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+.column {
+    flex-basis: 50%;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.time-button.active {
+    background-color: blue;
+    color: white
+}
+
+@media screen and (max-width: 768px) {
+    .booking-section {
+        flex-direction: column;
+    }
+
+    .column {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+
+    .booking-row {
+        flex-direction: column;
+        width: 100%;
+    }
+}
