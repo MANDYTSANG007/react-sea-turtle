@@ -19,8 +19,9 @@ function Footer() {
                 {contactData.map((contact, index) => {
                     return (
                         <ul key={index}>
-                            <li>
-                                {contact}
+                            <li className="contact-items">
+                                <span className="icon">{contact.icon}</span>
+                                <span>{contact.name}</span>
                             </li>
                         </ul>
                     )
@@ -30,8 +31,9 @@ function Footer() {
                 {socialMedia.map((contact, index) => {
                     return (
                         <ul key={index}>
-                            <li>
-                                {contact}
+                            <li className="social-media-items">
+                                <span className="icon">{contact.icon}</span>
+                                <span>{contact.name}</span>
                             </li>
                         </ul>
                     )

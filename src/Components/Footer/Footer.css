@@ -32,6 +32,16 @@
     font-size: 1rem;
 }
 
+.contact-items, .social-media-items {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    margin-right: 0.5rem;
+}
+
 @media screen and (max-width: 768px) {
     .footer {
         display: flex;
@@ -43,5 +53,9 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    .icon {
+        display: none;
     }
 }
