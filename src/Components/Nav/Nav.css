@@ -31,7 +31,7 @@
 }
 
 .navbar .nav-menu li:hover {
-    color: #2873ec
+    color: #ffffff;
 }
 
 .navbar-logo {
@@ -72,13 +72,14 @@
 
     .nav-menu ul {
         position: absolute;
-        top: 60px;
+        top: 80px;
         left: 0;
         flex-direction: column;
         width: 100%;
         height: calc(100vh-77px);
-        background-color: white;
+        background-color: #edefee;
         border-top: 1px solid black;
+        /* color: black; */
     }
     
     .nav-menu li {
@@ -86,10 +87,13 @@
         padding: 1.5rem 0;
         text-align: center;
         margin: 0;
+        list-style-type: none;
+
     }
 
     .nav-menu li:hover {
-        background-color: #eee;
+        background-color: rgb(39, 126, 132);
+        color: white;
     }
 
     .nav-menu.expanded ul {

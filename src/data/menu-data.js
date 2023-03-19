@@ -33,7 +33,7 @@ export const menuData = [
         id: 3,
         title: 'Greek Salad',
         price: '10.99',
-        description: 'A refreshing and healthy salad made with fresh vegetables such as tomatoes, cucumbers, and bell peppers, topped with crumbled feta cheese and Kalamata olives. Dressed with a simple vinaigrette made with olive oil and lemon juice.' ,
+        description: 'A refreshing and healthy salad made with fresh vegetables, topped with crumbled feta cheese and olives. Dressed with a simple vinaigrette made with olive oil and lemon juice.' ,
         appetizers: true,
         dessert: false,
         mainCourse: false,
@@ -111,7 +111,7 @@ export const specialMenuData = [
         id: 3,
         title: 'Greek Salad',
         price: '10.99',
-        description: 'A refreshing and healthy salad made with fresh vegetables such as tomatoes, cucumbers, and bell peppers, topped with crumbled feta cheese and Kalamata olives. Often dressed with a simple vinaigrette made with olive oil and lemon juice.' ,
+        description: 'A refreshing and healthy salad made with fresh vegetables, topped with crumbled feta cheese and olives. Dressed with a simple vinaigrette made with olive oil and lemon juice.' ,
         image: greekSalad,
     },
 ]

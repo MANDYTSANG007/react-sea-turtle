@@ -221,6 +221,7 @@ function BookingForm(props) {
                     <button
                         type="submit"
                         className="btn"
+                        id="button"
                         disabled={Object.values(validations).some((na) => !na)}
                     > Reserve </button>
                 </form>
