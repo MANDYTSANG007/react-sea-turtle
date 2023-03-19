@@ -2,8 +2,7 @@
   "name": "react-sea-turtle",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
-
+  "homepage": "https://mandytsang007.github.io/react-sea-turtle/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
