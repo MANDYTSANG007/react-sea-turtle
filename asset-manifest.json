@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.f540a4d2.css",
-    "main.js": "./static/js/main.00d1be48.js",
+    "main.js": "./static/js/main.83e39eb3.js",
     "static/media/beef-stew.jpg": "./static/media/beef-stew.3289dc983116962bea64.jpg",
     "static/media/french-macarons.jpg": "./static/media/french-macarons.dda32c3a0d1e8daaa807.jpg",
     "static/media/farm-produce.jpg": "./static/media/farm-produce.cdc7ba44e90c57058238.jpg",
@@ -16,10 +16,10 @@
     "static/media/logo2-sea-turtle-clear.png": "./static/media/logo2-sea-turtle-clear.8ec13da68c51918fd8b9.png",
     "index.html": "./index.html",
     "main.f540a4d2.css.map": "./static/css/main.f540a4d2.css.map",
-    "main.00d1be48.js.map": "./static/js/main.00d1be48.js.map"
+    "main.83e39eb3.js.map": "./static/js/main.83e39eb3.js.map"
   },
   "entrypoints": [
     "static/css/main.f540a4d2.css",
-    "static/js/main.00d1be48.js"
+    "static/js/main.83e39eb3.js"
   ]
 }
