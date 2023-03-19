@@ -14,7 +14,7 @@ function Hero() {
                 </p>
                 <button onClick={() => navigate("/booking")} className='btn'> Reserve a table </button>
             </div>
-            <img src={require('../../assets/chef2.jpg')} alt='a chef' />
+            <img src={require('../src/assets/chef2.jpg')} alt='a chef' />
         </header>
     )
 }
