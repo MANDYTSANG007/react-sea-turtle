@@ -25,8 +25,7 @@ function About() {
                     <div className="column">
                         <div className="container">
                             <figure className="figure">
-                            src/assets/images
-                                <img src={require("../src/assets/chef3.jpg")} alt="chef" className="about-img" />
+                                <img src={require("./src/assets/chef3.jpg")} alt="chef" className="about-img" />
                             </figure>
                             <figure className="figure">
                                 <iframe
