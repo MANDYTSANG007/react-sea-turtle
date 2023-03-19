@@ -1,11 +1,11 @@
-import beefStew from './src/assets/beef-stew.jpg';
-import appleCake from './src/assets/apple-cake.jpg';
-import greekSalad from './src/assets/greek-salad.jpg';
-import salmonSalad from './src/assets/salmon-salad.jpeg';
-import steakTartare from './src/assets/steak-tartare.jpg';
-import lobster from './src/assets/lobster.jpg';
-import macarons from './src/assets/french-macarons.jpg';
-import blackForest from './src/assets/black-forest.jpg';
+import beefStew from '../../../src/assets/beef-stew.jpg';
+import appleCake from '../../../src/assets/apple-cake.jpg';
+import greekSalad from '../../../src/assets/greek-salad.jpg';
+import salmonSalad from '../../../src/assets/salmon-salad.jpeg';
+import steakTartare from '../../../src/assets/steak-tartare.jpg';
+import lobster from '../../../src/assets/lobster.jpg';
+import macarons from '../../../src/assets/french-macarons.jpg';
+import blackForest from '../../../src/assets/black-forest.jpg';
 
 
 export const menuData = [
