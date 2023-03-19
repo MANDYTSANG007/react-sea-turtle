@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.f540a4d2.css",
-    "main.js": "./static/js/main.83e39eb3.js",
-    "static/media/beef-stew.jpg": "./static/media/beef-stew.3289dc983116962bea64.jpg",
-    "static/media/french-macarons.jpg": "./static/media/french-macarons.dda32c3a0d1e8daaa807.jpg",
-    "static/media/farm-produce.jpg": "./static/media/farm-produce.cdc7ba44e90c57058238.jpg",
-    "static/media/black-forest.jpg": "./static/media/black-forest.69924c07687dff3f6b9c.jpg",
-    "static/media/steak-tartare.jpg": "./static/media/steak-tartare.8585a6085b054ad61f33.jpg",
-    "static/media/salmon-salad.jpeg": "./static/media/salmon-salad.7668a30516b96fbeaa33.jpeg",
-    "static/media/lobster.jpg": "./static/media/lobster.eabd0a7cd39ef1083992.jpg",
-    "static/media/greek-salad.jpg": "./static/media/greek-salad.5b1b78ca3056a68321f7.jpg",
-    "static/media/apple-cake.jpg": "./static/media/apple-cake.354532c5fda6ce256807.jpg",
-    "static/media/chef3.jpg": "./static/media/chef3.1b8708560f2e9bf13628.jpg",
-    "static/media/chef2.jpg": "./static/media/chef2.ee30615bb62c49d84af2.jpg",
-    "static/media/logo2-sea-turtle-clear.png": "./static/media/logo2-sea-turtle-clear.8ec13da68c51918fd8b9.png",
-    "index.html": "./index.html",
-    "main.f540a4d2.css.map": "./static/css/main.f540a4d2.css.map",
-    "main.83e39eb3.js.map": "./static/js/main.83e39eb3.js.map"
+    "main.css": "/react-sea-turtle/static/css/main.f540a4d2.css",
+    "main.js": "/react-sea-turtle/static/js/main.f6c786e6.js",
+    "static/media/beef-stew.jpg": "/react-sea-turtle/static/media/beef-stew.3289dc983116962bea64.jpg",
+    "static/media/french-macarons.jpg": "/react-sea-turtle/static/media/french-macarons.dda32c3a0d1e8daaa807.jpg",
+    "static/media/farm-produce.jpg": "/react-sea-turtle/static/media/farm-produce.cdc7ba44e90c57058238.jpg",
+    "static/media/black-forest.jpg": "/react-sea-turtle/static/media/black-forest.69924c07687dff3f6b9c.jpg",
+    "static/media/steak-tartare.jpg": "/react-sea-turtle/static/media/steak-tartare.8585a6085b054ad61f33.jpg",
+    "static/media/salmon-salad.jpeg": "/react-sea-turtle/static/media/salmon-salad.7668a30516b96fbeaa33.jpeg",
+    "static/media/lobster.jpg": "/react-sea-turtle/static/media/lobster.eabd0a7cd39ef1083992.jpg",
+    "static/media/greek-salad.jpg": "/react-sea-turtle/static/media/greek-salad.5b1b78ca3056a68321f7.jpg",
+    "static/media/apple-cake.jpg": "/react-sea-turtle/static/media/apple-cake.354532c5fda6ce256807.jpg",
+    "static/media/chef3.jpg": "/react-sea-turtle/static/media/chef3.1b8708560f2e9bf13628.jpg",
+    "static/media/chef2.jpg": "/react-sea-turtle/static/media/chef2.ee30615bb62c49d84af2.jpg",
+    "static/media/logo2-sea-turtle-clear.png": "/react-sea-turtle/static/media/logo2-sea-turtle-clear.8ec13da68c51918fd8b9.png",
+    "index.html": "/react-sea-turtle/index.html",
+    "main.f540a4d2.css.map": "/react-sea-turtle/static/css/main.f540a4d2.css.map",
+    "main.f6c786e6.js.map": "/react-sea-turtle/static/js/main.f6c786e6.js.map"
   },
   "entrypoints": [
     "static/css/main.f540a4d2.css",
-    "static/js/main.83e39eb3.js"
+    "static/js/main.f6c786e6.js"
   ]
 }
