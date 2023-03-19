@@ -1,5 +1,10 @@
 import './App.css';
-import { Route, Routes } from 'react-router-dom';
+// import { Route, Routes } from 'react-router-dom';
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom";
 import Nav from './Components/Nav/Nav';
 import Home from './Components/Home/Home';
 import About from './Components/About/About';
@@ -10,16 +15,22 @@ import Footer from './Components/Footer/Footer';
 function App() {
   return (
     <>
-      <Nav />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/menu" element={<Menu />} />
-        <Route path="/booking" element={<Booking />} />
-      </Routes>
-      <Footer />
+      <BrowserRouter>
+        <Nav />
+        <Routes basename="/react-sea-turtle">
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/menu" element={<Menu />} />
+          <Route path="/booking" element={<Booking />} />
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </>
-  )
+  );
 }
-
 export default App;
+
+
+
+
+

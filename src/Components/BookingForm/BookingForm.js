@@ -227,9 +227,11 @@ function BookingForm(props) {
                 </form>
             ) : (
                 <div>
-                    <p>Thank you {booking.name} for making a reservation on {booking.date}. </p>
-                    <p> We are looking forward to seeing you soon! </p>
+                    <p>Thank you {booking.name} for making a reservation with us on {booking.date} at {booking.time}P.M. for {booking.guests} {booking.guests > 1 ? 'guests' : 'guest'}. </p>
+                    <p>We are looking forward to having you at our restaurant! </p>
+                    <p>If you have any further questions or changes to your reservation, please feel free to reach out to us.</p>
                     <button className="reset-button" onClick={handleReset}> Check out our menu </button>
+
                 </div>
             )
             }
