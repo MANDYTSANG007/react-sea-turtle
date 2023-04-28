@@ -37,7 +37,7 @@ Below is the demostration of this application:
 Please note that currently, this app is a front-end only React app designed to showcase my front-end development skills. I'm always exploring new ways to improve and enhance the app. In the future, I may add additional features such as a testimonial feature, which would allow customers to leave feedback on their dining experience. I'm also open to the possibility of developing the back-end to create a more robust and fully-functional application.
 
 ## Author
-Mandy Tsang is the author of this application. Find additional work on Mandy's [Github profile.](https://github.com/MANDYTSANG007).
+Mandy Tsang is the author of this application. Find additional work on Mandy's [Github profile.](https://github.com/MANDYTSANG007) or check out her portfolio at [mandytsang.com](https://mandytsang.com).
 
 ## License
 This project is licensed under the MIT License - see [MIT](https://opensource.org/licenses/MIT)
